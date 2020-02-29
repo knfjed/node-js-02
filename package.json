@@ -1,0 +1,14 @@
+{
+  "name": "js-02",
+  "version": "1.0.0",
+  "description": "参考： https://webtan.impress.co.jp/e/2010/01/12/7156",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
